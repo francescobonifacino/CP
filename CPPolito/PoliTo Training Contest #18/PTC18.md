@@ -18,9 +18,7 @@ ho una stringa binaria s (0101011010)
 2 operazioni:
 - cancellare 1 carattere dalla stringa (1 coin cost)
 - scambiare qualunque paio di caratteri (0 coin cost)
-Sia t una stringa ottenuta da operazioni su s tale che ogni t(i) = s(i) (cioè ogni carattere sia diverso dala stringa origianria)
+Sia t una stringa ottenuta da operazioni su s tale che ogni t(i) = s(i) (cioè ogni carattere sia diverso dala stringa iniziale)
 Calcolare il costo totale per ottenere t
 
-Prima trovo quanti 0 e quanti 1 ci sono nella stringa (se num di 0 == num di 1 allora sono solo operazioni di swap (costo zero))
-
-per ogni carattere (posso fare uno swap? si -> num di 0 o num di 1 -1, non posso farlo? coin + 1)
+???

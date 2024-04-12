@@ -22,3 +22,6 @@ Sia t una stringa ottenuta da operazioni su s tale che ogni t(i) = s(i) (cioè o
 Calcolare il costo totale per ottenere t
 
 ???
+
+
+## Problema C:

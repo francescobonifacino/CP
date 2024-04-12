@@ -1,0 +1,2 @@
+
+            if divisore == 2:
